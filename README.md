@@ -3,8 +3,6 @@
 )](https://www.linkedin.com/in/gustavohenriqueoliveira/)
 
 ![Gustavo Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavohdo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohdo)](https://github.com/gustavohdo/github-readme-stats)
-
 ### Tecnologias que utilizo no dia a dia:
 
 <div style="display: inline_block">
