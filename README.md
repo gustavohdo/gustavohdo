@@ -19,6 +19,7 @@
 </div>
 ## Projetos desenvolvidos para treino:
 
+- [NunesSports CRUD - Angular, MySQL, NodeJS, AWS, Vercel]([https://gustavohdo.github.io/rolagemDados/](https://gustavohdo.github.io/NunesSportProd/))
 - [Horóscopo Pokémon - Angular](https://gustavohdo.github.io/HoroscopoPokemon/) <br>
 - [Adivinha Só - React](https://gustavohdo.github.io/Adivinha/) <br>
 - [Versátil Tapeçaria - HTML,CSS, Bootstrap](https://gustavohdo.github.io/versatil-tapecaria/)<br>
