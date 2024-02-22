@@ -22,5 +22,5 @@
 - [NunesSports CRUD - Angular, MySQL, NodeJS, AWS, Vercel](https://gustavohdo.github.io/NunesSportProd/) <br>
 - [Horóscopo Pokémon - Angular](https://gustavohdo.github.io/HoroscopoPokemon/) <br>
 - [Adivinha Só - React](https://gustavohdo.github.io/Adivinha/) <br>
-- [Versátil Tapeçaria - HTML,CSS, Bootstrap](https://gustavohdo.github.io/versatil-tapecaria/)<br>
+- [Versátil Tapeçaria - HTML,CSS, Bootstrap](https://versatiltoldos.com/)<br>
 - [Rolagem de Dados - HTML, CSS, Javascript](https://gustavohdo.github.io/rolagemDados/)
