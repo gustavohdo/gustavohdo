@@ -18,9 +18,9 @@
 </div>
 ## Projetos desenvolvidos para treino:
 
-- [NunesSports CRUD - Angular 17, MySQL, NodeJS, AWS, Vercel](https://gustavohdo.github.io/NunesSportProd/) <br>
 - [Simulador de Empréstimo - Angular 9, NodeJS, Vercel](https://gustavohdo.github.io/SimuladorEmprestimoPROD/) <br>
 - [Horóscopo Pokémon - Angular 17](https://gustavohdo.github.io/HoroscopoPokemon/) <br>
 - [Adivinha Só - React](https://gustavohdo.github.io/Adivinha/) <br>
 - [Versátil Tapeçaria - HTML,CSS, Bootstrap](https://versatiltoldos.com/)<br>
+- [NunesSports CRUD - Angular 17, MySQL, NodeJS, AWS, Vercel](https://gustavohdo.github.io/NunesSportProd/) (SGBD desativado): <br>
 - [Rolagem de Dados - HTML, CSS, Javascript](https://gustavohdo.github.io/rolagemDados/)
