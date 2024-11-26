@@ -18,6 +18,9 @@
 </div>
 ## Projetos desenvolvidos para treino:
 
+- [Landing Page - Angular 17, NodeJS](https://github.com/gustavohdo/LandingPage/tree/master/) <br>
+- [Teste StairsDigital - React, NodeJS](https://github.com/gustavohdo/TesteStairsDigital) <br>
+- [Desafio Makeweb - Laravel, PHP](https://github.com/gustavohdo/desafio-backend) <br>
 - [Simulador de Empréstimo - Angular 9, NodeJS, Vercel](https://gustavohdo.github.io/SimuladorEmprestimoPROD/) <br>
 - [Horóscopo Pokémon - Angular 17](https://gustavohdo.github.io/HoroscopoPokemon/) <br>
 - [Adivinha Só - React](https://gustavohdo.github.io/Adivinha/) <br>
